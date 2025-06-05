@@ -26,15 +26,18 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 - **Outils & Environnement** :
   - Visual Studio Code
+  - Copilot
   - Navigateurs & Outils de développement
   - Git & GitHub (Versioning de base)
   - Figma (Notions de maquettage)
+  - MS SharePoint (En cours)
 
 - **Savoir-être (Soft Skills)** :
   - Curiosité et soif d'apprendre
   - Rigueur et souci du détail
   - Autonomie et proactivité
   - Capacité d'adaptation
+  - Force de propositions
   - Esprit d'équipe
 
 ---
@@ -65,11 +68,11 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 - **Certification Responsive Web Design (partiellement complétée)** - FreeCodeCamp
   - Modules significatifs : Basic HTML & CSS, Applied Visual Design, Applied Accessibility, CSS Flexbox (incluant projet "Photo Gallery" & "Cafe Menu").
-  - Compétences acquises : Structuration sémantique, stylisation CSS, principes de design responsive, bases accessibilité, Flexbox.
+  - Compétences : Structuration sémantique, stylisation CSS, principes de design responsive, bases accessibilité, Flexbox.
 
 - **The Complete Web Development Bootcamp (partiellement complétée)** - Dr. Angela Yu, Udemy
   - Sections complétées : Introduction au Web, HTML, CSS (bases et intermédiaire), Flexbox.
-  - Compétences acquises : Fondamentaux du web, balises HTML, propriétés CSS, introduction à Flexbox.
+  - Compétences : HTML, propriétés CSS, Flexbox, JavaScript, DOM, Node.js, Express, MongoDB, Git, React...
 
 ---
 
