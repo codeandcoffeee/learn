@@ -47,7 +47,7 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 | Projet | Description |
 |--------|-------------|
 | [`AgencySite`](https://lacombechristophe.github.io/AgencySite/) | Maquette d’un site d’agence web responsive (exercice Udemy) |
-| [`Quiz`](https://lacombechristophe.github.io/Quiz/) | Prototype d’application de quiz (structure HTML + début JS) |
+| [`Quiz`](https://lacombechristophe.github.io/Quiz/) | Prototype d’application de quiz (structure HTML + CSS) |
 | [`NutritionLabel`](https://lacombechristophe.github.io/NutritionLabel/) | Reproduction d’une étiquette nutritionnelle avec CSS |
 | [`FlexboxPhotoApp`](https://lacombechristophe.github.io/FlexboxPhotoApp) | Galerie photo responsive avec Flexbox |
 | [`SurveyForm`](https://lacombechristophe.github.io/SurveyForm) | Formulaire d’enquête complet avec validation HTML |
