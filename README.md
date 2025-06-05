@@ -43,16 +43,16 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 | Projet | Description |
 |--------|-------------|
-| [`AgencySite`](https://github.com/codeandcoffeee/AgencySite) | Maquette d’un site d’agence web responsive (exercice Udemy) |
-| [`Quiz`](https://github.com/codeandcoffeee/Quiz) | Prototype d’application de quiz (structure HTML + début JS) |
-| [`NutritionLabel`](https://github.com/codeandcoffeee/NutritionLabel) | Reproduction d’une étiquette nutritionnelle avec CSS |
-| [`FlexboxPhotoApp`](https://github.com/codeandcoffeee/FlexboxPhotoApp) | Galerie photo responsive avec Flexbox |
-| [`CSSBoxModel`](https://github.com/codeandcoffeee/CSSBoxModel) | Démonstration visuelle du box model CSS |
-| [`SurveyForm`](https://github.com/codeandcoffeee/SurveyForm) | Formulaire d’enquête complet avec validation HTML |
-| [`RegistrationForm`](https://github.com/codeandcoffeee/RegistrationForm) | Page d’inscription HTML avec mise en forme |
-| [`CSSColorMarkers`](https://github.com/codeandcoffeee/CSSColorMarkers) | Usage des couleurs et effets CSS |
-| [`CafeMenu`](https://github.com/codeandcoffeee/CafeMenu) | Menu de café stylisé, structuré et accessible |
-| [`CatPhotoApp`](https://github.com/codeandcoffeee/CatPhotoApp) | Projet de base pour explorer HTML et CSS |
+| [`AgencySite`](https://codeandcoffeee.github.io/AgencySite/) | Maquette d’un site d’agence web responsive (exercice Udemy) |
+| [`Quiz`](https://codeandcoffeee.github.io/Quiz/) | Prototype d’application de quiz (structure HTML + début JS) |
+| [`NutritionLabel`](https://codeandcoffeee.github.io/NutritionLabel/) | Reproduction d’une étiquette nutritionnelle avec CSS |
+| [`FlexboxPhotoApp`](https://codeandcoffeee.github.io/FlexboxPhotoApp) | Galerie photo responsive avec Flexbox |
+| [`SurveyForm`](https://codeandcoffeee.github.io/SurveyForm) | Formulaire d’enquête complet avec validation HTML |
+| [`RegistrationForm`](https://codeandcoffeee.github.io/RegistrationForm) | Page d’inscription HTML avec mise en forme |
+| [`CSSBoxModel`](https://codeandcoffeee.github.io/CSSBoxModel) | Démonstration visuelle du box model CSS |
+| [`CSSColorMarkers`](https://codeandcoffeee.github.io/CSSColorMarkers) | Usage des couleurs et effets CSS |
+| [`CafeMenu`](https://codeandcoffeee.github.io/CafeMenu) | Menu de café stylisé, structuré et accessible |
+| [`CatPhotoApp`](https://codeandcoffeee.github.io/CatPhotoApp) | Projet de base pour explorer HTML et CSS |
 | [`learn`](https://github.com/codeandcoffeee/learn) | Dépôt général de progression & notes d’apprentissage |
 
 ---
