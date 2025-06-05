@@ -39,19 +39,21 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 ---
 
-## 📂 Projets GitHub
+## 📁 Mes Projets GitHub
 
-Voici quelques-uns de mes projets disponibles sur GitHub :
-
-- [**CatPhotoApp**](https://github.com/codeandcoffeee/CatPhotoApp) : Application simple pour pratiquer la structuration HTML et le stylage CSS.
-
-- [**CafeMenu**](https://github.com/codeandcoffeee/CafeMenu) : Page de menu de café mettant en œuvre des techniques de mise en page CSS.
-
-- [**CSSColorMarkers**](https://github.com/codeandcoffeee/CSSColorMarkers) : Projet explorant l'utilisation des couleurs et des marqueurs en CSS.
-
-- [**RegistrationForm**](https://github.com/codeandcoffeee/RegistrationForm) : Formulaire d'inscription conçu pour pratiquer les formulaires HTML et la validation.
-
-- [**SurveyForm**](https://github.com/codeandcoffeee/SurveyForm) : Formulaire d'enquête pour s'exercer à la création de formulaires interactifs.
+| Projet | Description |
+|--------|-------------|
+| [`AgencySite`](https://github.com/codeandcoffeee/AgencySite) | Maquette d’un site d’agence web responsive (exercice Udemy) |
+| [`Quiz`](https://github.com/codeandcoffeee/Quiz) | Prototype d’application de quiz (structure HTML + début JS) |
+| [`NutritionLabel`](https://github.com/codeandcoffeee/NutritionLabel) | Reproduction d’une étiquette nutritionnelle avec CSS |
+| [`FlexboxPhotoApp`](https://github.com/codeandcoffeee/FlexboxPhotoApp) | Galerie photo responsive avec Flexbox |
+| [`CSSBoxModel`](https://github.com/codeandcoffeee/CSSBoxModel) | Démonstration visuelle du box model CSS |
+| [`SurveyForm`](https://github.com/codeandcoffeee/SurveyForm) | Formulaire d’enquête complet avec validation HTML |
+| [`RegistrationForm`](https://github.com/codeandcoffeee/RegistrationForm) | Page d’inscription HTML avec mise en forme |
+| [`CSSColorMarkers`](https://github.com/codeandcoffeee/CSSColorMarkers) | Usage des couleurs et effets CSS |
+| [`CafeMenu`](https://github.com/codeandcoffeee/CafeMenu) | Menu de café stylisé, structuré et accessible |
+| [`CatPhotoApp`](https://github.com/codeandcoffeee/CatPhotoApp) | Projet de base pour explorer HTML et CSS |
+| [`learn`](https://github.com/codeandcoffeee/learn) | Dépôt général de progression & notes d’apprentissage |
 
 ---
 
