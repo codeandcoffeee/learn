@@ -46,17 +46,17 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 | Projet | Description |
 |--------|-------------|
-| [`AgencySite`](https://codeandcoffeee.github.io/AgencySite/) | Maquette d’un site d’agence web responsive (exercice Udemy) |
-| [`Quiz`](https://codeandcoffeee.github.io/Quiz/) | Prototype d’application de quiz (structure HTML + début JS) |
-| [`NutritionLabel`](https://codeandcoffeee.github.io/NutritionLabel/) | Reproduction d’une étiquette nutritionnelle avec CSS |
-| [`FlexboxPhotoApp`](https://codeandcoffeee.github.io/FlexboxPhotoApp) | Galerie photo responsive avec Flexbox |
-| [`SurveyForm`](https://codeandcoffeee.github.io/SurveyForm) | Formulaire d’enquête complet avec validation HTML |
-| [`RegistrationForm`](https://codeandcoffeee.github.io/RegistrationForm) | Page d’inscription HTML avec mise en forme |
-| [`CSSBoxModel`](https://codeandcoffeee.github.io/CSSBoxModel) | Démonstration visuelle du box model CSS |
-| [`CSSColorMarkers`](https://codeandcoffeee.github.io/CSSColorMarkers) | Usage des couleurs et effets CSS |
-| [`CafeMenu`](https://codeandcoffeee.github.io/CafeMenu) | Menu de café stylisé, structuré et accessible |
-| [`CatPhotoApp`](https://codeandcoffeee.github.io/CatPhotoApp) | Projet de base pour explorer HTML et CSS |
-| [`learn`](https://github.com/codeandcoffeee/learn) | Dépôt général de progression & notes d’apprentissage |
+| [`AgencySite`](https://lacombechristophe.github.io/AgencySite/) | Maquette d’un site d’agence web responsive (exercice Udemy) |
+| [`Quiz`](https://lacombechristophe.github.io/Quiz/) | Prototype d’application de quiz (structure HTML + début JS) |
+| [`NutritionLabel`](https://lacombechristophe.github.io/NutritionLabel/) | Reproduction d’une étiquette nutritionnelle avec CSS |
+| [`FlexboxPhotoApp`](https://lacombechristophe.github.io/FlexboxPhotoApp) | Galerie photo responsive avec Flexbox |
+| [`SurveyForm`](https://lacombechristophe.github.io/SurveyForm) | Formulaire d’enquête complet avec validation HTML |
+| [`RegistrationForm`](https://lacombechristophe.github.io/RegistrationForm) | Page d’inscription HTML avec mise en forme |
+| [`CSSBoxModel`](https://lacombechristophe.github.io/CSSBoxModel) | Démonstration visuelle du box model CSS |
+| [`CSSColorMarkers`](https://lacombechristophe.github.io/CSSColorMarkers) | Usage des couleurs et effets CSS |
+| [`CafeMenu`](https://lacombechristophe.github.io/CafeMenu) | Menu de café stylisé, structuré et accessible |
+| [`CatPhotoApp`](https://lacombechristophe.github.io/CatPhotoApp) | Projet de base pour explorer HTML et CSS |
+| [`learn`](https://github.com/lacombechristophe/learn) | Dépôt général de progression & notes d’apprentissage |
 
 ---
 
