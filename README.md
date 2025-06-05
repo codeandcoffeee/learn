@@ -80,7 +80,7 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 - **Email** : [christophelacombe25@gmail.com](mailto:christophelacombe25@gmail.com)
 - **Téléphone** : 06 56 79 04 12
-- **GitHub** : [codeandcoffeee](https://github.com/codeandcoffeee)
+- **GitHub** : [lacombechristophe](https://github.com/codeandcoffeee)
 
 ---
 
