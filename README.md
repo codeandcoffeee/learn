@@ -46,6 +46,7 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 | Projet | Description |
 |--------|-------------|
+| [`Portfolio`](https://lacombechristophe.github.io/portfolio/) | Création d’un site Portfolio responsive (HTML + CSS) |
 | [`AgencySite`](https://lacombechristophe.github.io/AgencySite/) | Maquette d’un site d’agence web responsive (exercice Udemy) |
 | [`Quiz`](https://lacombechristophe.github.io/Quiz/) | Prototype d’application de quiz (structure HTML + CSS) |
 | [`NutritionLabel`](https://lacombechristophe.github.io/NutritionLabel/) | Reproduction d’une étiquette nutritionnelle avec CSS |
@@ -71,7 +72,6 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
   - Compétences : Structuration sémantique, stylisation CSS, principes de design responsive, bases accessibilité, Flexbox.
 
 - **The Complete Web Development Bootcamp (partiellement complétée)** - Dr. Angela Yu, Udemy
-  - Sections complétées : Introduction au Web, HTML, CSS (bases et intermédiaire), Flexbox.
   - Compétences : HTML, propriétés CSS, Flexbox, JavaScript, DOM, Node.js, Express, MongoDB, Git, React...
 
 ---
@@ -80,7 +80,7 @@ Je suis activement à la recherche d'une **alternance** qui me permettra de mett
 
 - **Email** : [christophelacombe25@gmail.com](mailto:christophelacombe25@gmail.com)
 - **Téléphone** : 06 56 79 04 12
-- **GitHub** : [lacombechristophe](https://github.com/codeandcoffeee)
+- **GitHub** : [lacombechristophe](https://github.com/lacombechristophe)
 
 ---
 
